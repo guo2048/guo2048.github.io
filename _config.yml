@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This page it to help people learning web3.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: xxx
+twitter_username: phoenix_guog
 github_username:  guo2048
 
 # Build settings
